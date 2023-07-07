@@ -1,4 +1,10 @@
-### Hi there 👋
+✅ Seja bem vindo ao meu perfil de desenvolvedor 👋
+
+Estou começando os trabalhos nessa rede, sinta-se livre para cp,emtar, compartilhar e testar meus projetos.  Estou em fase de transição de carreira. Muito Grato por tudo isso !!!
+
+_ Estou trabalhando em um projeto acadêmico FINTECH. Um produto financeiro totalmente digital!! 
+
+
 
 <!--
 **Felipe-Schmidt/Felipe-schmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
