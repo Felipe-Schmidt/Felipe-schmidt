@@ -1,29 +1,46 @@
-# 👋 Hello, I'm Felipe Pierri Schmidt
+# 👋 Olá, eu sou o Felipe Pierri Schmidt
 
-💻 **Frontend & Mobile Developer | Kotlin • JavaScript • SQL**  
-🤖 **AI Enthusiast | Exploring LLMs, automation and intelligent solutions**  
-🔧 **IT & Aviation Operations Background |**  
-📍 São Paulo, Brazil  
-
-
-I'm a developer passionate about technology, problem-solving, and building clean, intuitive digital experiences.  
-Combining years of analytical experience with solid technical skills — and a growing passion for Artificial Intelligence and its real-world applications.
-
-### 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Mobile:** Kotlin (Jetpack Compose)  
-- **Backend:** Python
-- **Databases:** SQL (Oracle)  
-- **Tools:** Git, GitHub, Figma
-
-### 🤖 Interests
-- AI-powered development  
-- LLMs and automation  
-- Tech for business efficiency  
-- Real-time applications and mobile UI  
+### 💻 Desenvolvedor Frontend & Mobile | Kotlin • JavaScript • SQL
+### 🤖 Entusiasta de IA | Explorando LLMs, automação e soluções inteligentes
+### 🔧 Background em TI & Operações de Aviação
+### 📍 São Paulo, Brasil
 
 ---
 
-📫 **Let’s connect!**  
-LinkedIn: https://www.linkedin.com/in/felipepschmidt  
-GitHub: github.com/Felipe-Schmidt
+## 📝 Sobre Mim
+
+Sou um desenvolvedor apaixonado por tecnologia, resolução de problemas e pela criação de experiências digitais limpas e intuitivas. 
+
+Combinando anos de experiência analítica com habilidades técnicas sólidas — e uma paixão crescente pela **Inteligência Artificial** e suas aplicações no mundo real.
+
+---
+
+## 🛠️ Tech Stack
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Mobile** | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Banco de Dados** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=sqlite&logoColor=black) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+
+---
+
+## 🤖 Interesses e Foco
+
+* **Desenvolvimento potencializado por IA:** Integração de inteligência em fluxos de trabalho.
+* **LLMs e Automação:** Exploração de modelos de linguagem para eficiência.
+* **Mobile UI:** Criação de interfaces modernas com Jetpack Compose.
+* **Sistemas de Tempo Real:** Aplicações ágeis e escaláveis.
+
+---
+
+## 📫 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepschmidt)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-Schmidt)
+
+---
+
+> "Transformando complexidade em soluções digitais intuitivas."
