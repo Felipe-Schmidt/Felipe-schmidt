@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou o Felipe Pierri Schmidt
+#  Olá, eu sou o Felipe Pierri Schmidt
 
-### 💻 Desenvolvedor Frontend & Mobile | Kotlin • JavaScript • SQL
+### 💻 Desenvolvedor Frontend & Mobile | Kotlin • JavaScript
 ### 🤖 Entusiasta de IA | Explorando LLMs, automação e soluções inteligentes
 ### 🔧 Background em TI & Operações de Aviação
 ### 📍 São Paulo, Brasil
 
 ---
 
-## 📝 Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor apaixonado por tecnologia, resolução de problemas e pela criação de experiências digitais limpas e intuitivas. 
 
