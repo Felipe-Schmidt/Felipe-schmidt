@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Felipe Pierri Schmidt 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=61dafb&size=28&center=true&vCenter=true&width=900&lines=Frontend%20Developer;HTML%20CSS%20JavaScript%20e%20React;Construindo%20interfaces%20modernas%20e%20responsivas;Transformando%20codigo%20em%20experiencias%20digitais" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=61dafb&size=28&center=true&vCenter=true&width=900&lines=Frontend%20Developer;HTML%20CSS%20JavaScript%20e%20React;Construindo%20interfaces%20modernas%20e%20responsivas;Transformando%20c%C3%B3digo%20em%20experi%C3%AAncias%20digitais" />
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
   <a href="https://github.com/Felipe-Schmidt">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Felipe-Schmidt&style=for-the-badge" />
 </p>
 
 ## 🚀 Sobre mim
