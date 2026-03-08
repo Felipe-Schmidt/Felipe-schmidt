@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Felipe Pierri Schmidt 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=61dafb&size=28&center=true&vCenter=true&width=900&lines=Frontend+Developer+em+formação;Estudando+HTML,+CSS,+JavaScript+e+React;Construindo+interfaces+modernas+e+responsivas" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=61dafb&size=28&center=true&vCenter=true&width=900&lines=Frontend+Developer;HTML,+CSS,+JavaScript+e+React;Transformando códigos em experi/////////~encias significativas" />
 </p>
 
 <p align="center">
@@ -17,6 +17,8 @@
 ## 🚀 Sobre mim
 
 Sou focado em Desenvolvimento Frontend, criando interfaces modernas, responsivas e funcionais com HTML, CSS, JavaScript e React.
+
+Entusiasta de IA, Explorando LLMs, automação e soluções inteligentes
 
 Atualmente desenvolvo projetos práticos por meio dos meus estudos, fortalecendo minha base técnica e construindo meu portfólio no GitHub.
 
@@ -43,24 +45,9 @@ Atualmente desenvolvo projetos práticos por meio dos meus estudos, fortalecendo
 
 ## 💼 Projetos em destaque
 
-- [Projeto 1](https://github.com/Felipe-Schmidt/Portifolio)
-- [Projeto 2](https://github.com/Felipe-Schmidt/tecboard)
+- [Portifólio](https://github.com/Felipe-Schmidt/Portifolio)
+- [Tecboard](https://github.com/Felipe-Schmidt/tecboard)
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Schmidt&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Schmidt&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Felipe-Schmidt&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Felipe-Schmidt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 ## 🌐 Contato
 
