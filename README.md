@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Felipe Pierri Schmidt 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=61dafb&size=28&center=true&vCenter=true&width=900&lines=Frontend+Developer;HTML,+CSS,+JavaScript+e+React;Transformando códigos em experi/////////~encias significativas" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=61dafb&size=28&center=true&vCenter=true&width=900&lines=Frontend%20Developer;HTML%20CSS%20JavaScript%20e%20React;Construindo%20interfaces%20modernas%20e%20responsivas;Transformando%20codigo%20em%20experiencias%20digitais" />
 </p>
 
 <p align="center">
